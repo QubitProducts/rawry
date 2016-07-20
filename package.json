@@ -1,6 +1,6 @@
 {
   "name": "rawry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESWhatever sugar for nicely and safely executing raw sql",
   "main": "dist/rawry.js",
   "directories": {
