@@ -1,6 +1,6 @@
 {
   "name": "rawry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modern ECMAScript layer for safely executing raw queries against MySQL",
   "main": "dist/rawry.js",
   "directories": {
