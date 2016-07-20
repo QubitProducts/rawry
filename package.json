@@ -1,7 +1,7 @@
 {
   "name": "rawry",
   "version": "1.0.1",
-  "description": "ESWhatever sugar for nicely and safely executing raw sql",
+  "description": "Modern ECMAScript layer for safely executing raw queries against MySQL",
   "main": "dist/rawry.js",
   "directories": {
     "test": "test"
