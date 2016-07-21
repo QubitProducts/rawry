@@ -39,10 +39,6 @@
       "dist/*"
     ]
   },
-  "keywords": [
-    "sql",
-    "mysql"
-  ],
   "author": "David Padbury <david@davidpadbury.com>",
   "license": "MIT",
   "dependencies": {
@@ -63,5 +59,14 @@
     "standard": "^7.1.2",
     "babel-plugin-transform-runtime": "^6.9.0",
     "babel-register": "^6.9.0"
-  }
+  },
+  "homepage": "https://github.com/QubitProducts/rawry#readme",
+  "repository": "QubitProducts/rawry",
+  "bugs": {
+    "url": "https://github.com/QubitProducts/redux-async-collection/issues"
+  },
+  "keywords": [
+    "sql",
+    "mysql"
+  ]
 }
